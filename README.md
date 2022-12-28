@@ -5,7 +5,9 @@ This template should help get you started developing with Vue 3 in Vite.
 ## Setup
 
 [VSCode]    https://code.visualstudio.com
+
 [Git]       https://git-scm.com/downloads
+
 [nvm]       https://github.com/coreybutler/nvm-windows/releases
 
 ```sh
